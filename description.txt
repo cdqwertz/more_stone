@@ -1,0 +1,8 @@
+This mod adds some new stone types.
+- gneiss
+- chalk
+- marble
+- mudstone
+- shale
+
+created by cd2 (cdqwertz) - cdqwertz.github.io
